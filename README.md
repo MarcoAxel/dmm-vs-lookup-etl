@@ -73,7 +73,7 @@ Early results revealed inconsistencies due to object caching. These were resolve
 
 ## 🙋 About Me
 
-I'm a senior at Eastern Connecticut State University, double majoring in Computer Science and Business Information Systems, with a minor in Data and Information Engineering. My academic and project background centers on data engineering, and this research supports my goal of contributing to real-world ETL optimization practices.
+I'm a recent graduate at Eastern Connecticut State University with a double major in Computer Science and Business Information Systems, and a minor in Data and Information Engineering. My academic and project background centers on data engineering, and this research supports my goal of contributing to real-world ETL optimization practices.
 
 📬 Feedback and suggestions are welcome.  
 📁 See [`results/`](./results) for figures and paper.  
